@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shojchi
-- 👀 I’m interested in JavaScript, Angular, React
+- 👀 I’m interested in JavaScript, Angular, React, Vue
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me rhordiichuk@gmail.com
 
