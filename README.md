@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shojchi
 - 👀 I’m interested in JavaScript, Angular, React, Vue
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me rhordiichuk@gmail.com
 
 <!---
