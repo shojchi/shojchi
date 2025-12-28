@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shojchi
-- 👀 I’m interested in JavaScript, Angular, React, Vue
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in JavaScript, Typescript, Angular, React, GraphQL
 - 📫 How to reach me rhordiichuk@gmail.com
 
 <a href="https://u8views.com/github/shojchi"><img src="https://u8views.com/api/v1/github/profiles/68084686/views/day-week-month-total-count.svg"></a>
