@@ -5,6 +5,8 @@
 
 <a href="https://u8views.com/github/shojchi"><img src="https://u8views.com/api/v1/github/profiles/68084686/views/day-week-month-total-count.svg"></a>
 
+[![Roman Hordiichuk profile views](https://u8views.com/api/v1/github/profiles/68084686/views/day-week-month-total-count.svg)](https://u8views.com/github/shojchi)
+
 <!---
 shojchi/shojchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
