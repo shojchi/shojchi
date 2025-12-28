@@ -5,6 +5,8 @@
 
 <a href="https://u8views.com/github/shojchi"><img src="https://u8views.com/api/v1/github/profiles/68084686/views/day-week-month-total-count.svg"></a>
 
+<a href="https://wakatime.com/@18ce62a4-516d-46c3-b8fa-850135cd24ff"><img src="https://wakatime.com/badge/user/18ce62a4-516d-46c3-b8fa-850135cd24ff.svg" alt="Total time coded since May 29 2024" /></a>
+
 <!---
 shojchi/shojchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
