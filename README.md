@@ -6,7 +6,7 @@
 
 <a href="https://wakatime.com/@18ce62a4-516d-46c3-b8fa-850135cd24ff"><img src="https://wakatime.com/badge/user/18ce62a4-516d-46c3-b8fa-850135cd24ff.svg" alt="Total time coded since May 29 2024" /></a>
 
-<img width="300" src="https://wakatime.com/share/@shojchi/e4e5ef61-28b6-4cd3-baed-3e3306a74dc9.svg"></img>
+<img width="500" src="https://wakatime.com/share/@shojchi/e4e5ef61-28b6-4cd3-baed-3e3306a74dc9.svg"></img>
 
 <!---
 shojchi/shojchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
