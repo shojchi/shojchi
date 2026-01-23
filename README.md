@@ -20,6 +20,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red">
   <img alt="Static Badge" src="https://img.shields.io/badge/ngrx-purple?style=for-the-badge&logo=ngrx&logoColor=white">
 
+  <img alt="Static Badge" src="https://img.shields.io/badge/google%20cloud-%23FAFAFA?style=for-the-badge&logo=googlecloud&logoColor=%230B5FFF">
+
 
 </p>
 
