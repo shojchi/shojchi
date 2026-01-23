@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shojchi
 - 📫 How to reach me rhordiichuk@gmail.com
 
-<showcase>
+<p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
 
@@ -9,8 +9,19 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css&logoColor=white">
 
   <img alt="Static Badge" src="https://img.shields.io/badge/angular-%23B52E31?style=for-the-badge&logo=angular&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/rxjs-purple?style=for-the-badge&logo=reactivex&logoColor=white">
+
   <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue">
-</showcase>
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro&logoColor=red">
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/mongo-black?style=for-the-badge&logo=mongodb&logoColor=green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ngrx-purple?style=for-the-badge&logo=ngrx&logoColor=white">
+
+
+</p>
 
 <a href="https://u8views.com/github/shojchi"><img src="https://u8views.com/api/v1/github/profiles/68084686/views/day-week-month-total-count.svg"></a>
 
