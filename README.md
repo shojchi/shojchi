@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shojchi
-- 👀 I’m interested in JavaScript, Typescript, Angular, React, GraphQL, 
 - 📫 How to reach me rhordiichuk@gmail.com
 
 - <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+- <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+
 
 <a href="https://u8views.com/github/shojchi"><img src="https://u8views.com/api/v1/github/profiles/68084686/views/day-week-month-total-count.svg"></a>
 
