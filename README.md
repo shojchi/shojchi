@@ -1,28 +1,40 @@
 - 👋 Hi, I’m @shojchi
 - 📫 How to reach me rhordiichuk@gmail.com
 
-<p align="center">
+### Tech Stack
+<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
-
   <img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css&logoColor=white">
+</p>
 
+### Frontend
+<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/angular-%23B52E31?style=for-the-badge&logo=angular&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/rxjs-purple?style=for-the-badge&logo=reactivex&logoColor=white">
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue">
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro&logoColor=red">
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/mongo-black?style=for-the-badge&logo=mongodb&logoColor=green">
-  <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red">
   <img alt="Static Badge" src="https://img.shields.io/badge/ngrx-purple?style=for-the-badge&logo=ngrx&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue">
+  
+</p>
 
+### Backend
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red">
+</p>
+
+### Databases
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/mongo-black?style=for-the-badge&logo=mongodb&logoColor=green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white">
+
+</p>
+
+### Cloud
+<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/google%20cloud-%23FAFAFA?style=for-the-badge&logo=googlecloud&logoColor=%230B5FFF">
-
-
 </p>
 
 <a href="https://u8views.com/github/shojchi"><img src="https://u8views.com/api/v1/github/profiles/68084686/views/day-week-month-total-count.svg"></a>
