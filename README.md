@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @shojchi
 - 📫 How to reach me rhordiichuk@gmail.com
 
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+<showcase>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css&logoColor=white">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/angular-%23B52E31?style=for-the-badge&logo=angular&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue">
-
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/angular-%23B52E31?style=for-the-badge&logo=angular&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue">
+</showcase>
 
 <a href="https://u8views.com/github/shojchi"><img src="https://u8views.com/api/v1/github/profiles/68084686/views/day-week-month-total-count.svg"></a>
 
