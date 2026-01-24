@@ -13,7 +13,6 @@
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/angular-%23B52E31?style=for-the-badge&logo=angular&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/rxjs-purple?style=for-the-badge&logo=reactivex&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro&logoColor=red">
   <img alt="Static Badge" src="https://img.shields.io/badge/ngrx-purple?style=for-the-badge&logo=ngrx&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue">
   
@@ -22,13 +21,11 @@
 ### Backend
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red">
 </p>
 
 ### Databases
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/mongo-black?style=for-the-badge&logo=mongodb&logoColor=green">
-  <img alt="Static Badge" src="https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white">
 
 </p>
 
