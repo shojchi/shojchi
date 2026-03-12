@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shojchi
+- 👋 Hi, my name is Roman
 - 📫 How to reach me rhordiichuk@gmail.com
 
 ### Tech Stack
