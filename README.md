@@ -40,6 +40,8 @@
 
 <img src="https://wakatime.com/share/@shojchi/e4e5ef61-28b6-4cd3-baed-3e3306a74dc9.svg"></img>
 
+![Demo](./shojchi-space-shooter.gif)
+
 <!---
 shojchi/shojchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
